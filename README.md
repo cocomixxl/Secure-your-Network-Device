@@ -16,10 +16,15 @@ Configure DHCP on your router and secure the ports of your switch from the attac
 
 
 ### Skills Learned
+- Basic CLI Navigation
+- Device Configuration
+- Access Control
+- Port Security
+- VLAN Configuration
+- Trunking and Inter-VLAN Routing
+- DHCP Configuration
+- Monitoring and Troubleshooting
 
-- Navigate Wireshark's interface and key features.
-- Perform network traffic captures.
-- Filter and analyze captured data for anomalies.
 
 ### Tools Used
 - cisco packet tracer
